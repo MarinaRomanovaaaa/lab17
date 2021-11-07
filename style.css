@@ -1,0 +1,146 @@
+.html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    }
+    
+    h1{
+        font-family: 'Cormorant Garamond', serif;
+    color: black;
+    font-size: 72px;
+    }
+    .intro{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    }
+    
+    .image{
+    display: flex;
+    width: 35%;
+    }
+    
+    .img_1{
+    width: 85%;
+    padding-left: 7%;
+    }
+    
+    .intro_text{
+    width: 65%;
+    background-color: rgb(209, 191, 185);
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+    }
+    
+    .title{
+        font-size: 48px;
+        font-family: 'Cormorant Garamond', serif;
+        color: black; 
+        } 
+.titletxt{
+            font-size: 36px;
+            color: black;    
+           
+            background: rgba(190, 188, 188, 0.507);
+            }
+    .text_i{
+    font-size: 42px;
+    margin: 0 auto;
+    margin-top: 10%;
+    font-weight: 500;
+    align-items: center;
+    }
+    
+    
+    .mass{
+        display: inline-block;
+    }
+    .mass img{
+        margin: 5%;
+        width: 25%;
+        height: 20%;
+    }
+
+    .content{
+        display: flex;
+        width: 100%;
+        margin-top: 5%;
+        }
+        
+        .content_text{
+            
+        width: 65%;
+        padding-left: 5%;
+        font-size: 36px;
+        }
+    
+        .img_2{
+        height: 450px;
+        margin-left: 3%;
+        transition: 2s;
+        }
+        .img_2:hover{
+            transform:scale(1.2) ;
+        }
+        
+        .text_2{
+        width: 100%;
+        margin-top: 3%;
+        text-align: center;
+        align-items: center;
+          background-color: rgb(209, 191, 185);
+       
+        }
+  .text{
+      text-align: center;
+      font-size: 28px;
+      margin: 2%;
+  }      
+ .txt{
+     margin-top: 3%;
+ }
+ .imgs{
+     display:flex;
+    justify-content: space-around;
+ }
+ .imgs img{
+width: 25%;
+height: 25%;
+transition: 2s;
+ }
+ .imgs img:hover{
+   transform: scale(1.2);
+     }
+.ph{
+       width: 350px;
+       height: 257px;
+       padding-top: 15%;
+    }
+
+    .gallery22{
+        display: flex;
+        margin-top: 2%;
+        margin-left: 11%;
+    }
+    .gallery22 img{
+        width: 265px;
+        height: 375px;
+        margin: 1%;
+       transition: 2s;
+    }
+    
+    .gallery22 img:hover{
+        transform: scale(1.2);
+    }
+    
+
+
+        
+        
+        
+    
+        
+        
